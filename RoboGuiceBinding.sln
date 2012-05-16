@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoboGuice.MonoAndroid", "RoboGuice.MonoAndroid\RoboGuice.MonoAndroid.csproj", "{749AFCAB-B184-495D-935D-86708D2508FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoboGuice.SampleApp", "RoboGuice.SampleApp\RoboGuice.SampleApp.csproj", "{9E133615-3BA5-4FEE-AF83-E2F8BBF153EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{749AFCAB-B184-495D-935D-86708D2508FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{749AFCAB-B184-495D-935D-86708D2508FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{749AFCAB-B184-495D-935D-86708D2508FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{749AFCAB-B184-495D-935D-86708D2508FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E133615-3BA5-4FEE-AF83-E2F8BBF153EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E133615-3BA5-4FEE-AF83-E2F8BBF153EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E133615-3BA5-4FEE-AF83-E2F8BBF153EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E133615-3BA5-4FEE-AF83-E2F8BBF153EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = RoboGuice.SampleApp\RoboGuice.SampleApp.csproj
+	EndGlobalSection
+EndGlobal

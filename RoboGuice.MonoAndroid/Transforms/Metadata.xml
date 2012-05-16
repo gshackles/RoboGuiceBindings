@@ -1,0 +1,5 @@
+<metadata>
+	<attr path="/api/package[@name='roboguice.util']/class[@name='Ln']" name="managedName">LN</attr>
+<!--	<remove-node path="/api/package[not(starts-with(@name, 'com.google.inject')) and not(starts-with (@name, 'roboguice'))]" />
+  	<remove-node path="/api/package[@name='com.google.inject']/class[@name!='BindingAnnotation']" /> -->
+</metadata>
